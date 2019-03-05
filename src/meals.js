@@ -5,7 +5,4 @@ meals.forEach(function(currentValue, index, arr){
   console.log(index, currentValue, arr);
 });
 
-console.log(meals[1]);
-console.log(meals[meals.length - 1]);
-
 var mealsCopy = meals.slice();
