@@ -8,3 +8,4 @@ tvSeries.forEach(function(currentValue, index, arr){
 console.log(tvSeries[1]);
 
 var tvSeriesCopy = tvSeries.slice();
+console.log(tvSeriesCopy);
