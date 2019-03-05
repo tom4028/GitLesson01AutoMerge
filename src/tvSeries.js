@@ -6,6 +6,5 @@ tvSeries.forEach(function(currentValue, index, arr){
 });
 
 console.log(tvSeries[1]);
-console.log(tvSeries[tvSeries.length - 1]);
 
 var tvSeriesCopy = tvSeries.slice();
